@@ -101,6 +101,7 @@ p {
   justify-content: flex-start; /* змінюємо вирівнювання */
 }
 
+/*ts*/
 .button {
   background-color: #434957; /* green */
   color: #fff;
